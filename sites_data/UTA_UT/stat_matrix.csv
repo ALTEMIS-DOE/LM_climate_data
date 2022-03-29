@@ -1,0 +1,6 @@
+,hist_mean,hist_std,1990_2019_mean,rcp45_mean,rcp45_max,rcp85_mean,rcp85_max,risk_rcp45,risk_rcp85
+Annual precipitation (mm/day),0.58,0.03,0.57,0.63,0.72,0.63,0.76,2,2
+Extreme precipitation day,1.01,1.01,0.04,1.29,5.43,1.43,5.52,1,1
+Annual avg Tmax (C),16.29,0.38,17.04,18.86,21.06,19.99,23.52,3,3
+Maximum Daily Precipitation (mm/day),16.15,6.45,16.25,17.12,40.39,17.79,42.66,1,1
+SPEI,0.0,0.27,-0.06,-0.34,-1.26,-0.64,-1.48,2,3

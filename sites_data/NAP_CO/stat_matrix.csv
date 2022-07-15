@@ -1,9 +1,10 @@
-,hist_mean,hist_std,1990_2019_mean,rcp45_mean,rcp45_max,rcp85_mean,rcp85_max,shifting_rcp45,shifting_rcp85
-Annual precipitation (mm/day),0.99,0.05,0.98,1.05,1.24,1.04,1.22,2,2
-Extreme precipitation day,0.82,0.91,3.81,1.01,4.71,1.14,4.67,1,1
-Annual avg Tmax (C),17.89,0.37,18.62,20.39,22.33,21.49,25.98,3,3
-Maximum Daily Precipitation (mm/day),30.36,13.79,30.69,31.27,80.42,33.06,84.95,1,1
-SPEI,-0.01,0.26,-0.06,-0.27,-1.12,-0.52,-1.51,2,2
-Heating Degree Days,6228.46,396.75,,5106.32,6333.59,4706.72,6473.63,0,0
-Extreme Degree Days,0.0,0.0,,0.0,0.0,0.17,5.31,3,3
-Cooling Degree Days,434.55,115.03,,896.23,1441.84,1185.4,2304.5,3,3
+,hist_mean,hist_std,hist_max,rcp45_mean,rcp45_max,rcp85_mean,rcp85_max,shifting_rcp45,shifting_rcp85,hist_10yr_mean,mid_rcp45_mean,shifting_mid_rcp45,late_rcp45_mean,shifting_late_rcp45,mid_rcp85_mean,shifting_mid_rcp85,late_rcp85_mean,shifting_late_rcp85
+Annual precipitation (mm/day),0.99,0.05,1.1,1.05,1.24,1.04,1.22,2,2,1.0,1.04,1,1.04,1,1.05,2,1.15,3
+Extreme precipitation day,0.52,0.69,3.76,0.71,4.71,0.81,4.67,1,1,0.96,1.11,0,1.03,1,1.07,0,1.51,2
+Annual avg Tmax (C),17.89,0.37,18.7,20.39,22.33,21.49,25.98,3,3,18.36,20.55,3,21.29,3,21.06,3,23.94,3
+Maximum Daily Precipitation (mm/day),27.17,6.47,82.0,28.93,80.42,30.23,84.95,1,1,30.98,31.99,1,32.16,1,32.04,1,37.73,2
+SPEI,-0.01,0.26,-0.44,-0.27,-1.12,-0.52,-1.51,1,2,-0.12,-0.11,0,-0.26,1,-0.48,3,-0.9,3
+Heating Degree Days,6242.22,207.29,7094.1,5073.22,6333.59,4720.9,6473.63,0,0,6021.69,5037.46,0,4774.6,0,4839.07,0,3774.32,0
+Extreme Degree Days,0.0,0.0,0.0,0.0,0.0,0.0,5.31,0,0,0.0,0.0,0,0.0,0,0.0,0,0.86,3
+Cooling Degree Days,428.41,57.84,724.63,900.89,1441.84,1129.32,2304.5,3,3,519.6,925.09,3,1087.52,3,1063.62,3,1784.1,3
+Wildfire,,,,15.75,,16.46,,2,2,14.39,14.19,2,17.31,2,15.44,2,17.47,2
